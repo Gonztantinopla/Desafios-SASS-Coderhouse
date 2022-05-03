@@ -1,0 +1,21 @@
+body {
+  background-color: red;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body h1 {
+  color: lightgreen;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: blue;
+  font-size: 45px;
+  text-decoration: underline;
+  -webkit-text-decoration-color: wheat;
+          text-decoration-color: wheat;
+}
+/*# sourceMappingURL=style.css.map */
